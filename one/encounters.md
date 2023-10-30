@@ -1,15 +1,14 @@
 # ICON
 ## Glossary of Foes (pg 298)
-🔴Heavy
+#### 🔴Heavy
+| **Vitality:** | 10 |
+| **HP:** | 40 |
+| **Speed:** 4 | (Dash 2) |
+| **Defense:** | 6 |
+| **Fray damage:** | 4 |
+| **[D]:** | 1d6 |
 
-    __Vitality:__ 10
-    **HP:** 40
-    **Speed:** 4 (Dash 2)
-    **Defense:** 6
-    **Fray damage:** 4
-    **[D]:** 1d6
-
-    **Guard:** has *Rampart*. Reduce all damge to self and allies in orthogonal spaces by 2, as if by armor. 
+**Guard:** has *Rampart*. Reduce all damge to self and allies in orthogonal spaces by 2, as if by armor. 
 
 🟡Skirmisher
     **Vitality:** 7

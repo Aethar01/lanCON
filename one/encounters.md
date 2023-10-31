@@ -94,7 +94,7 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
     Berseker |
     Sentinel |
     Crusher |
-    Sledge |
+    Sledge 
 
 🟡:
     Pepperbox |
@@ -104,7 +104,7 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
     Hellion |
     Skulk |
     Shadow |
-    Arsonist |
+    Arsonist 
     
 🟢:
     Errant |
@@ -115,7 +115,7 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
     Greenseer |
     Judge |
     Saint |
-    Cantrix |
+    Cantrix 
     
 🔵:
     Blaster |
@@ -128,7 +128,7 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
     Sapper |
     Alchemist |
     Justicar |
-    Sniper |
+    Sniper
 
 上🔴:
     Archon \
@@ -137,13 +137,13 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
 上🟢:
     Scion \
 上🔵:
-    Crucible \
+    Crucible 
 
 🟣:
     Demolisher | 
     Nocturnal | 
     Master | 
-    Razer | 
+    Razer 
 
 ### Factions
 1. Folk (pg 315)
@@ -162,5 +162,12 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
 🔴Starving Demon - 2 (pg 407) \
 🟡Hollow Demon (pg 409) \
 🔵Unstable Demon - 2 (pg 411) \
-上🟢Greater Emissary (pg 415) \
+上🟢Greater Emissary (pg 415)
+
+# LANCER
+## Encounter
+Grunt Scout (System Flayer, Spotter) - 4 \
+Ronin (Charged Slash, Chaff Launcher) - 2 \
+Sniper (Defensive Grapple, Deadmetal Rounds) - 2 \
+Elite Rainmaker (Endless Rain, Hades Missiles)
 

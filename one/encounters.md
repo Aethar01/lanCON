@@ -1,6 +1,8 @@
 # ICON
 ## Glossary of Foes (pg 298)
 #### 🔴Heavy
+| | |
+| --- | --- |
 | **Vitality:** | 10 |
 | **HP:** | 40 |
 | **Speed:** 4 | (Dash 2) |

@@ -166,8 +166,8 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
 
 # LANCER
 ## Encounter
-Grunt Scout (System Flayer, Spotter) - 4 \
-Ronin (Charged Slash, Chaff Launcher) - 2 \
-Sniper (Defensive Grapple, Deadmetal Rounds) - 2 \
-Elite Rainmaker (Endless Rain, Hades Missiles)
+Grunt Scout (System Flayer, Spotter) - 4 (pg 313) \
+Ronin (Charged Slash, Chaff Launcher) - 2 (pg 310) \
+Sniper (Defensive Grapple, Deadmetal Rounds) - 2 (pg 315) \
+Elite Rainmaker (Endless Rain, Hades Missiles) (pg 309)
 

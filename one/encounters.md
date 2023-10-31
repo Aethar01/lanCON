@@ -156,7 +156,7 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
 8. Jotunn (pg 448)
 9. Hob (pg 467)
 
-## Encounter 1
+## Encounter
 *Budget* 7 \
 ⚪Natal Mob - 12 members (pg 406) \
 🔴Starving Demon - 2 (pg 407) \

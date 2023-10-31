@@ -85,11 +85,11 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
     Basic Mob
 
 🔴:
-    Warrior
-    Soldier
-    Impaler
-    Greatsword
-    Brute
+    Warrior |
+    Soldier |
+    Impaler |
+    Greatsword |
+    Brute |
     Knuckle
     Berseker
     Sentinel

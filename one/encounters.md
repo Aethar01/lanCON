@@ -75,7 +75,7 @@
 | **Defense** | 8 |
 | **Traits:** | Mob (This character doesn't trigger slay effects, and is removed when defeated). |
 #### Unique Templates:
-**上Elite:**
+**上Elite:** \
 The foe takes up 2 points in the encounter budget and gets the followin trait:
 **Elite:** Thius foe takes 2 turns. Double HP for the Foe.
 

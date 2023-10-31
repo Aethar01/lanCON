@@ -157,10 +157,10 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
 9. Hob (pg 467)
 
 ## Encounter 1
-*Budget* 7 |
-⚪Natal Mob - 12 members (pg 406) |
-🔴Starving Demon - 2 (pg 407) |
-🟡Hollow Demon (pg 409) |
-🔵Unstable Demon - 2 (pg 411) |
-上🟢Greater Emissary (pg 415) |
+*Budget* 7 \
+⚪Natal Mob - 12 members (pg 406) \
+🔴Starving Demon - 2 (pg 407) \
+🟡Hollow Demon (pg 409) \
+🔵Unstable Demon - 2 (pg 411) \
+上🟢Greater Emissary (pg 415) \
 

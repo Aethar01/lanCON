@@ -90,60 +90,60 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
     Impaler |
     Greatsword |
     Brute |
-    Knuckle
-    Berseker
-    Sentinel
-    Crusher
-    Sledge
+    Knuckle |
+    Berseker |
+    Sentinel |
+    Crusher |
+    Sledge |
 
 🟡:
-    Pepperbox
-    Hunter
-    Fencer
-    Assassin
-    Hellion
-    Skulk
-    Shadow
-    Arsonist
+    Pepperbox |
+    Hunter |
+    Fencer |
+    Assassin |
+    Hellion |
+    Skulk |
+    Shadow |
+    Arsonist |
     
 🟢:
-    Errant
-    Priest
-    Commander
-    Abjurer
-    Diviner
-    Greenseer
-    Judge
-    Saint
-    Cantrix
+    Errant |
+    Priest |
+    Commander |
+    Abjurer |
+    Diviner |
+    Greenseer |
+    Judge |
+    Saint |
+    Cantrix |
     
 🔵:
-    Blaster
-    Seismatist
-    Storm Caller
-    Rift Dancer
-    Chaos Wright
-    Disruptor
-    Scourer
-    Sapper
-    Alchemist
-    Justicar
-    Sniper
+    Blaster |
+    Seismatist |
+    Storm Caller |
+    Rift Dancer |
+    Chaos Wright |
+    Disruptor |
+    Scourer |
+    Sapper |
+    Alchemist |
+    Justicar |
+    Sniper |
 
 上🔴:
-    Archon
+    Archon \
 上🟡:
-    Rogue
+    Rogue \
 上🟢:
-    Scion
+    Scion \
 上🔵:
-    Crucible
+    Crucible \
 
 🟣:
-    Demolisher
-    Nocturnal
-    Master
-    Razer
+    Demolisher | 
+    Nocturnal | 
+    Master | 
+    Razer | 
 
 ### Factions
 1. Folk (pg 315)
@@ -157,10 +157,10 @@ The foe takes up 2 points in the encounter budget and gets the followin trait:\
 9. Hob (pg 467)
 
 ## Encounter 1
-*Budget* 7
-⚪Natal Mob - 12 members (pg 406)
-🔴Starving Demon - 2 (pg 407)
-🟡Hollow Demon (pg 409)
-🔵Unstable Demon - 2 (pg 411)
-上🟢Greater Emissary (pg 415)
+*Budget* 7 |
+⚪Natal Mob - 12 members (pg 406) |
+🔴Starving Demon - 2 (pg 407) |
+🟡Hollow Demon (pg 409) |
+🔵Unstable Demon - 2 (pg 411) |
+上🟢Greater Emissary (pg 415) |
 

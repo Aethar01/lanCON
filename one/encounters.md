@@ -3,39 +3,82 @@
 #### 🔴Heavy
 | | |
 | --- | --- |
-| **Vitality:** | 10 |
-| **HP:** | 40 |
-| **Speed:** 4 | (Dash 2) |
-| **Defense:** | 6 |
-| **Fray damage:** | 4 |
-| **[D]:** | 1d6 |
+| **Vitality** | 10 |
+| **HP** | 40 |
+| **Speed** | 4 (Dash 2) |
+| **Defense** | 6 |
+| **Fray damage** | 4 |
+| **[D]** | 1d6 |
 
 **Guard:** has *Rampart*. Reduce all damge to self and allies in orthogonal spaces by 2, as if by armor. 
 
-🟡Skirmisher
-    **Vitality:** 7
-    **HP:** 28
-    **Speed:** 4 (Dash 4)
-    **Defense:** 10
-    **Fray damage:** 2
-    **[D]:** 1d10
+#### 🟡Skirmisher
+| | |
+| --- | --- |
+| **Vitality** | 7 |
+| **HP** | 28 |
+| **Speed** | 4 (Dash 4) |
+| **Defense** | 10 |
+| **Fray damage** | 2 |
+| **[D]** | 1d10 |
 
-    **Skirmisher:** Can move diagonally, and dash moves full speed.
-    **Dodge:** Immune to damage from missed attacks, area effects and seuccessful saves.
+**Skirmisher:** Can move diagonally, and dash moves full speed.
+**Dodge:** Immune to damage from missed attacks, area effects and seuccessful saves.
 
-🟣Legend
+#### 🟣Legend
+| | |
+| --- | --- |
+| **Vitality** | 10 |
+| **HP** | 50 per player character |
+| **Speed** | 4 (Dash 2) |
+| **Defense** | 8 |
+| **Fray damage** | 3 |
+| **[D]** | 1d8 |
 
-    **Vitality:** 7
-    **HP:** 28
-    **Speed:** 4 (Dash 4)
-    **Defense:** 10
-    **Fray damage:** 2
-    **[D]:** 1d10
+**Legend:** Takes 1 turn for each player character.
+**Juggernaut (Round Action):** At the start of the round, this character may clear a status or mark.
 
-🟢Leader
-🔵Artillery
-⚪Mob
-上Elite
+#### 🟢Leader
+| | |
+| --- | --- |
+| **Vitality** | 10 |
+| **HP** | 40 |
+| **Speed** | 4 (Dash 2) |
+| **Defense** | 8 |
+| **Fray damage** | 3 |
+| **[D]** | 1d6 |
+
+**Diaga (1 action):** An ally in range 4 is *cured*.
+#### 🔵Artillery
+| | |
+| --- | --- |
+| **Vitality** | 8 |
+| **HP** | 32 |
+| **Speed** | 4 (Dash 2) |
+| **Defense** | 7 |
+| **Fray damage** | 3 |
+| **[D]** | 1d8 |
+
+**Slip:** Movement ignores *rampart*, interrupts, and *vigilance*
+**Aetherwall:** Gains *resistance* against all abilities from characters that are outside of range 2 from them *(Cover halves ranged damage).*
+#### ⚪Mob
+| | |
+| --- | --- |
+| **Members** | 2/player |
+| **[D]** | d6 |
+| **Fray** | 3 |
+
+| Members | |
+| --- | --- |
+| **Hits** | 2 |
+| **Speed** | 8 |
+| **Defense** | 8 |
+| **Traits:** | Mob (This character doesn't trigger slay effects, and is removed when defeated). |
+#### Unique Templates:
+**上Elite:**
+The foe takes up 2 points in the encounter budget and gets the followin trait:
+**Elite:** Thius foe takes 2 turns. Double HP for the Foe.
+
 
 ### Basic Jobs (pg 300)
 ⚪:

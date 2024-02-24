@@ -1,3 +1,3 @@
-# Crust "Nova"
+# Crusty "Nova"
 Race: Xixo (Crablike)
 Mech: Monk
